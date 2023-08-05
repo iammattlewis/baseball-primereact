@@ -1,0 +1,11 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+}
+
+.about-text {
+  font-family: "Your Desired Font Family", sans-serif; /* Replace "Your Desired Font Family" with the font family you want */
+  text-align: left;
+  font-size: 16px;
+  color: white;
+}
